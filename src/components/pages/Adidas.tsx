@@ -45,12 +45,12 @@ export const Adidas = () => {
                 {
                     adidasArr.map((adidas,index) =>(
                         <Link key={index} to={`/adidas/${adidas.id}`}>
-                        <img
+                            <img
                             src={adidas.picture}
                             alt={adidas.model}
                             style={{width: '200px',height:'auto',marginRight: '10px'}}
 
-                        />
+                            />
                         </Link>
                     ))
                 }
