@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e743b7cd-0a3f-4b68-91bb-ae93f8dcc085" name="Changes" comment="feat: add Navlink,Link">
-      <change afterPath="$PROJECT_DIR$/src/components/pages/_styles.ts" afterDir="false" />
+    <list default="true" id="e743b7cd-0a3f-4b68-91bb-ae93f8dcc085" name="Changes" comment="feat: add useParams">
+      <change afterPath="$PROJECT_DIR$/src/assets/adidasModel1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/adidasModel2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/adidasModel3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Model.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Site.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Site.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/PageOne.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Adidas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/PageThree.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Abibas.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/PageTwo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Puma.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708604686706</updated>
-      <workItem from="1708604692295" duration="12205000" />
+      <workItem from="1708604692295" duration="24220000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add Routes">
       <created>1708615584024</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708625622836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add Styled">
+      <created>1708632489597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708632489597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +123,8 @@
     <MESSAGE value="feat: add Routes" />
     <MESSAGE value="feat: add page Error404" />
     <MESSAGE value="feat: add Navlink,Link" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add Navlink,Link" />
+    <MESSAGE value="feat: add Styled" />
+    <MESSAGE value="feat: add useParams" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add useParams" />
   </component>
 </project>
